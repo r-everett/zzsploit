@@ -18,8 +18,12 @@ to whitelist it make sure u download it with real-time protection off, then whit
 
 
 how do i download the folder?
+
 easy way:
+
 at the top theres a green "code" button, click that, then click "download zip" and your done with downloading! now just scroll back up.
+
 hard way:
+
 To download a folder from GitHub, navigate to your desired repository, select the folder you want to download from GitHub,
 copy the URL, navigate to https://download-directory.github.io/ and paste the URL into the text box, and hit enter.
