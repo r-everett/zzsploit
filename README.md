@@ -9,7 +9,14 @@
 
 so how do i download it?
 
-its simple! jsut download the "zsploit" file up there and run the exe!
+scroll down a little and you find a tutorial on how to download the folder
+
+its simple! once youve downloaded the "zsploit" file up there, unzip it and run the exe!
 youre gonna have to either whitelist it with windows defender or turn real-time protection off
 
 to whitelist it make sure u download it with real-time protection off, then whitelist the zsploit folder and turn real-time protection back on!
+
+
+how do i download the folder?
+To download a folder from GitHub, navigate to your desired repository, select the folder you want to download from GitHub,
+copy the URL, navigate to https://download-directory.github.io/ and paste the URL into the text box, and hit enter.
